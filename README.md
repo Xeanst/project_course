@@ -57,8 +57,8 @@
     <td colspan="4">II. Создание базовой модели</td>
     </tr>
    <tr>
-  <td><a href="https://github.com/Xeanst/project_course/tree/main/4_LLM_training">4. Обучение больших языковых моделей.</a></td>
-      <td><ul>
+  <td rowspan="2"><a href="https://github.com/Xeanst/project_course/tree/main/4_LLM_training">4. Обучение больших языковых моделей.</a></td>
+      <td rowspan="2"><ul>
   <li>Предобучение LLM</li>
   <li>Сбор данных</li>
   <li>Токенизация</li>
@@ -69,6 +69,10 @@
 </ul>  </td>
     <td><a href="https://teach-in.ru/lecture/2025-04-23-Studenikina">Лекция 4</a></td>
     <td><a href="https://github.com/Xeanst/project_course/blob/main/4_LLM_training/LLM%20training%201.pdf">Презентация</a><br/>
+   </tr>
+  <tr>
+    <td>Лекция 5</td>
+    <td><a href="https://github.com/Xeanst/project_course/blob/main/4_LLM_training/LLM%20training%202.pdf.pdf">Презентация</a><br/>
    </tr>
 </table>
 </html>
