@@ -17,7 +17,7 @@
   <tr>
   <td><a href="https://github.com/Xeanst/project_course/tree/main/1_RuSentNE">1. Анализ тональности к именованным сущностям в новостных текстах</a></td>
       <td><ul>
-  <li>Постановка задачи"</li>
+  <li>Постановка задачи</li>
   <li>Предшествующие исследования</li>
   <li>Соревнование RuSentNE-2023</li>
   <li>Анализ датасета</li>
@@ -30,7 +30,7 @@
     <tr>
   <td><a href="https://github.com/Xeanst/project_course/tree/main/2_RuOpinionNE">2. Извлечение мнений из новостных текстов</a></td>
       <td><ul>
-  <li>Постановка задачи"</li>
+  <li>Постановка задачи</li>
   <li>Предшествующие исследования</li>
   <li>Соревнование RuOpinionNE-2024</li>
   <li>Анализ датасета</li>
@@ -43,7 +43,7 @@
   <tr>
   <td><a href="https://github.com/Xeanst/project_course/tree/main/3_RuArg">3. Анализ аргументации</a></td>
       <td><ul>
-  <li>Постановка задачи"</li>
+  <li>Постановка задачи</li>
   <li>Предшествующие исследования</li>
   <li>Соревнование RuArg-2022</li>
   <li>Анализ датасета</li>
