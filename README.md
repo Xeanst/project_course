@@ -36,5 +36,16 @@
     <td><a href="https://github.com/Xeanst/project_course/blob/main/2_RuOpinionNE/RuOpinionNE-2024.pdf">Презентация</a><br/>
       <a href="https://github.com/Xeanst/project_course/blob/main/2_RuOpinionNE/RuOpinionNE-2024.ipynb">Colab-блокнот</a></td>
    </tr>
+  <tr>
+  <td><a href="https://github.com/Xeanst/project_course/tree/main/3_RuArg">3. Анализ аргументации</a></td>
+      <td><ul>
+  <li>Понятия "приемлемость" и "вероятность"</li>
+  <li>Вероятность предложения для энкодерных моделей</li>
+  <li>Определение приемлемости без дообучения для CoLA</li>
+</ul>  </td>
+    <td><a href="https://teach-in.ru/lecture/2025-04-16-Studenikina">Лекция 3</a></td>
+    <td><a href="https://github.com/Xeanst/project_course/blob/main/3_RuArg/RuArg-2022.pdf">Презентация</a><br/>
+      <a href="https://github.com/Xeanst/project_course/blob/main/3_RuArg/RuArg-2022.ipynb">Colab-блокнот</a></td>
+   </tr>
 </table>
 </html>
