@@ -56,5 +56,19 @@
   <tr>
     <td colspan="4">II. Создание базовой модели</td>
     </tr>
+   <tr>
+  <td><a href="https://github.com/Xeanst/project_course/tree/main/3_RuArg">4. Обучение больших языковых моделей.</a></td>
+      <td><ul>
+  <li>Предобучение LLM</li>
+  <li>Сбор данных</li>
+  <li>Токенизация</li>
+  <li>Тонкая настройка с учителем</li>
+  <li>Диалоговые датасеты</li>
+  <li>Борьба с галлюцинациями</li>
+  <li>Обучение с подкреплением</li>
+</ul>  </td>
+    <td><a href="https://github.com/Xeanst/project_course/tree/main/4_LLM_training">Лекция 4</a></td>
+    <td><a href="https://github.com/Xeanst/project_course/blob/main/4_LLM_training/LLM%20training%201.pdf">Презентация</a><br/>
+   </tr>
 </table>
 </html>
