@@ -15,35 +15,25 @@
     <td colspan="4">I. Разбор тем проектных работ</td>
     </tr>
   <tr>
-    <td rowspan="2"><a href="https://github.com/Xeanst/project_course/tree/main/1_RuSentNE"> 1. Анализ тональности к именованным сущностям в новостных текстах</a></td>
-    <td rowspan="2"><ul>
-  <li>Распознавание эмоций в тексте</li>
-  <li>Загрузка и обработка данных</li>
-  <li>Методы векторизации: мешок слов, TF-IDF</li>
-  <li>Методы машинного обучения: наивный байесовский классификатор, логистическая регрессия, деревья решений, метод случайного леса</li>
-  <li>Автоматический подбор параметров модели</li>
-  <li>Оценка качества классификации</li>
+  <td rowspan="2"><a href="https://github.com/Xeanst/compling_tasks/blob/main/6_acceptability_and_probability">6. Соотношение приемлемости и вероятности</a></td>
+      <td><ul>
+  <li>Понятия "приемлемость" и "вероятность"</li>
+  <li>Вероятность предложения для энкодерных моделей</li>
+  <li>Определение приемлемости без дообучения для CoLA</li>
 </ul>  </td>
-    <td><a href="https://teach-in.ru/lecture/2025-04-09-Studenikina">Лекция</a></td>
-    <td><a href="https://github.com/Xeanst/project_course/blob/main/1_RuSentNE/RuSentNE-2023.pdf">Презентация</a><br/>
-      <a href="https://github.com/Xeanst/project_course/blob/main/1_RuSentNE/RuSentNE-2023.ipynb">Colab-блокнот</a></td>
-    <td rowspan="2"><a href="https://github.com/Xeanst/compling_tasks/tree/main/2_multilabel_emotion_detection">2. Многометочная классификация эмоций</a></td>
-      <td rowspan="2"><ul>
-  <li>Библиотека Datasets</li>
-  <li>CEDR: Corpus for Emotions Detecting in Russian-language text sentences</li>
-  <li>Baseline: словарь эмоциональной лексики</li>
-  <li>Метод опорных векторов</li>
-  <li>Ансамбль классификаторов</li>
-  <li>Языковая модель ELMo</li>
-  <li>Оценка качества классификации</li>
+    <td><a href="https://teach-in.ru/lecture/2025-01-24-Studenikina-2">Лекция 11</a></td>
+    <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/6_acceptability_and_probability/6_acceptability_and_probability_with_gaps.ipynb">6_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/6_acceptability_and_probability/6_acceptability_and_probability_no_gaps.ipynb">6_no_gaps</a></td>
+   </tr>
+    <tr>
+  <td rowspan="2"><a href="https://github.com/Xeanst/compling_tasks/blob/main/6_acceptability_and_probability">6. Соотношение приемлемости и вероятности</a></td>
+      <td><ul>
+  <li>Понятия "приемлемость" и "вероятность"</li>
+  <li>Вероятность предложения для энкодерных моделей</li>
+  <li>Определение приемлемости без дообучения для CoLA</li>
 </ul>  </td>
-    <td><a href="https://teach-in.ru/lecture/2024-09-18-Studenikina">Лекция 3</a></td>
-    <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/2_multilabel_emotion_detection/2_multilabel_emotion_detection_with_gaps.ipynb">2_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/2_multilabel_emotion_detection/2_multilabel_emotion_detection_no_gaps.ipynb">2_no_gaps</a></td>
-    </tr>
-  <tr>
-    <td><a href="https://teach-in.ru/lecture/2024-09-26-Studenikina">Лекция 4</a></td>
-    <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/2_multilabel_emotion_detection/2_multilabel_emotion_detection_with_gaps_continued.ipynb">2_with_gaps_continued</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/2_multilabel_emotion_detection/2_multilabel_emotion_detection_no_gaps.ipynb">2_no_gaps</a></td>
-     </tr>
+    <td><a href="https://teach-in.ru/lecture/2025-01-24-Studenikina-2">Лекция 11</a></td>
+    <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/6_acceptability_and_probability/6_acceptability_and_probability_with_gaps.ipynb">6_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/6_acceptability_and_probability/6_acceptability_and_probability_no_gaps.ipynb">6_no_gaps</a></td>
+   </tr>
      <tr>
   <td rowspan="2">3. Дообучение энкодерных моделей для распознавания эмоций</td>
       <td rowspan="2"><ul>
