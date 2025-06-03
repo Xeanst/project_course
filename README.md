@@ -72,7 +72,7 @@
    </tr>
   <tr>
     <td>Лекция 5</td>
-    <td><a href="https://github.com/Xeanst/project_course/blob/main/4_LLM_training/LLM%20training%202.pdf.pdf">Презентация</a><br/>
+    <td><a href="https://github.com/Xeanst/project_course/blob/main/4_LLM_training/LLM%20training%202.pdf">Презентация</a><br/>
    </tr>
 </table>
 </html>
