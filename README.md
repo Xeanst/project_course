@@ -26,14 +26,15 @@
       <a href="https://github.com/Xeanst/project_course/blob/main/1_RuSentNE/RuSentNE-2023.ipynb">Colab-блокнот</a></td>
    </tr>
     <tr>
-  <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/6_acceptability_and_probability">6. Соотношение приемлемости и вероятности</a></td>
+  <td><a href="https://github.com/Xeanst/project_course/tree/main/2_RuOpinionNE">2. Извлечение мнений из новостных текстов</a></td>
       <td><ul>
   <li>Понятия "приемлемость" и "вероятность"</li>
   <li>Вероятность предложения для энкодерных моделей</li>
   <li>Определение приемлемости без дообучения для CoLA</li>
 </ul>  </td>
-    <td><a href="https://teach-in.ru/lecture/2025-01-24-Studenikina-2">Лекция 11</a></td>
-    <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/6_acceptability_and_probability/6_acceptability_and_probability_with_gaps.ipynb">6_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/6_acceptability_and_probability/6_acceptability_and_probability_no_gaps.ipynb">6_no_gaps</a></td>
+    <td><a href="https://teach-in.ru/lecture/2025-04-11-Studenikina">Лекция 2</a></td>
+    <td><a href="https://github.com/Xeanst/project_course/blob/main/2_RuOpinionNE/RuOpinionNE-2024.pdf">Презентация</a><br/>
+      <a href="https://github.com/Xeanst/project_course/blob/main/2_RuOpinionNE/RuOpinionNE-2024.ipynb">Colab-блокнот</a></td>
    </tr>
 </table>
 </html>
