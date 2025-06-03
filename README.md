@@ -17,9 +17,11 @@
   <tr>
   <td><a href="https://github.com/Xeanst/project_course/tree/main/1_RuSentNE">1. Анализ тональности к именованным сущностям в новостных текстах</a></td>
       <td><ul>
-  <li>Понятия "приемлемость" и "вероятность"</li>
-  <li>Вероятность предложения для энкодерных моделей</li>
-  <li>Определение приемлемости без дообучения для CoLA</li>
+  <li>Постановка задачи"</li>
+  <li>Предшествующие исследования</li>
+  <li>Соревнование RuSentNE-2023</li>
+  <li>Анализ датасета</li>
+  <li>Воспроизведение базовой модели</li>
 </ul>  </td>
     <td><a href="https://teach-in.ru/lecture/2025-04-09-Studenikina">Лекция 1</a></td>
     <td><a href="https://github.com/Xeanst/project_course/blob/main/1_RuSentNE/RuSentNE-2023.pdf">Презентация</a><br/>
@@ -28,9 +30,11 @@
     <tr>
   <td><a href="https://github.com/Xeanst/project_course/tree/main/2_RuOpinionNE">2. Извлечение мнений из новостных текстов</a></td>
       <td><ul>
-  <li>Понятия "приемлемость" и "вероятность"</li>
-  <li>Вероятность предложения для энкодерных моделей</li>
-  <li>Определение приемлемости без дообучения для CoLA</li>
+  <li>Постановка задачи"</li>
+  <li>Предшествующие исследования</li>
+  <li>Соревнование RuOpinionNE-2024</li>
+  <li>Анализ датасета</li>
+  <li>Воспроизведение базовой модели</li>
 </ul>  </td>
     <td><a href="https://teach-in.ru/lecture/2025-04-11-Studenikina">Лекция 2</a></td>
     <td><a href="https://github.com/Xeanst/project_course/blob/main/2_RuOpinionNE/RuOpinionNE-2024.pdf">Презентация</a><br/>
@@ -39,9 +43,11 @@
   <tr>
   <td><a href="https://github.com/Xeanst/project_course/tree/main/3_RuArg">3. Анализ аргументации</a></td>
       <td><ul>
-  <li>Понятия "приемлемость" и "вероятность"</li>
-  <li>Вероятность предложения для энкодерных моделей</li>
-  <li>Определение приемлемости без дообучения для CoLA</li>
+  <li>Постановка задачи"</li>
+  <li>Предшествующие исследования</li>
+  <li>Соревнование RuArg-2022</li>
+  <li>Анализ датасета</li>
+  <li>Воспроизведение базовой модели</li>
 </ul>  </td>
     <td><a href="https://teach-in.ru/lecture/2025-04-16-Studenikina">Лекция 3</a></td>
     <td><a href="https://github.com/Xeanst/project_course/blob/main/3_RuArg/RuArg-2022.pdf">Презентация</a><br/>
