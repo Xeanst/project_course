@@ -53,5 +53,8 @@
     <td><a href="https://github.com/Xeanst/project_course/blob/main/3_RuArg/RuArg-2022.pdf">Презентация</a><br/>
       <a href="https://github.com/Xeanst/project_course/blob/main/3_RuArg/RuArg-2022.ipynb">Colab-блокнот</a></td>
    </tr>
+  <tr>
+    <td colspan="4">II. Создание базовой модели</td>
+    </tr>
 </table>
 </html>
