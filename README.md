@@ -27,8 +27,6 @@
     <td><a href="https://teach-in.ru/lecture/2025-04-09-Studenikina">Лекция</a></td>
     <td><a href="https://github.com/Xeanst/project_course/blob/main/1_RuSentNE/RuSentNE-2023.pdf">Презентация</a><br/>
       <a href="https://github.com/Xeanst/project_course/blob/main/1_RuSentNE/RuSentNE-2023.ipynb">Colab-блокнот</a></td>
-    </tr>
-  <tr>
     <td rowspan="2"><a href="https://github.com/Xeanst/compling_tasks/tree/main/2_multilabel_emotion_detection">2. Многометочная классификация эмоций</a></td>
       <td rowspan="2"><ul>
   <li>Библиотека Datasets</li>
