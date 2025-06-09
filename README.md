@@ -131,7 +131,7 @@
   <li>Дообучение моделей</li>
   <li>Анализ результатов</li>
 </ul>  </td>
-    <td>Лекция 11</td>
+    <td>Лекция 10</td>
     <td><a href="https://github.com/Xeanst/project_course/blob/main/9_Argument_Mining_in_Movie_Reviews/Argument%20Mining%20in%20Movie%20Reviews.pdf">Презентация</a><br/>
       <a href="https://github.com/Xeanst/project_course/blob/main/9_Argument_Mining_in_Movie_Reviews/Argument%20Mining%20in%20Movie%20Reviews.ipynb">Colab-блокнот</a></td>
    </tr>
@@ -142,7 +142,7 @@
   <li>Две реализации: с retrieval и без</li>
   <li>Эксперименты по улучшению качества</li>
 </ul>  </td>
-    <td>Лекция 10</td>
+    <td>Лекция 11</td>
     <td><a href="https://github.com/Xeanst/project_course/blob/main/10_RAG_for_LLMs/RAG%20for%20LLMs.pdf">Презентация</a><br/>
       <a href="https://github.com/Xeanst/project_course/blob/main/10_RAG_for_LLMs/RAG%20for%20LLMs.ipynb">Colab-блокнот</a></td>
    </tr>
