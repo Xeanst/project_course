@@ -54,7 +54,7 @@
       <a href="https://github.com/Xeanst/project_course/blob/main/3_RuArg/RuArg-2022.ipynb">Colab-блокнот</a></td>
    </tr>
   <tr>
-    <td colspan="4">II. Создание базовой модели</td>
+    <td colspan="4">II. Создание базовой модели и эксперименты</td>
     </tr>
    <tr>
   <td rowspan="2"><a href="https://github.com/Xeanst/project_course/tree/main/4_LLM_training">4. Обучение больших языковых моделей.</a></td>
@@ -110,10 +110,10 @@
     <td><a href="https://github.com/Xeanst/project_course/blob/main/7_Parameter-Efficient_Fine-Tuning/Parameter-Efficient%20Fine-Tuning.ipynb">Colab-блокнот</a></td>
    </tr>
   <tr>
-    <td colspan="4">II. Эксперименты по улучшению качества</td>
+    <td colspan="4">III. Защита проектных работ</td>
     </tr>
   <tr>
-  <td><a href="https://github.com/Xeanst/project_course/tree/main/9_Comparing_Base_and_Fine-Tuned_Models">8. Сравнение эффективности базовых моделей и моделей, предобученных для решения задачи анализа тональности текста, при дообучении для анализа тональности именованных cущностей</a></td>
+  <td><a href="https://github.com/Xeanst/project_course/tree/main/8_Comparing_Base_and_Fine-Tuned_Models">8. Сравнение эффективности базовых моделей и моделей, предобученных для решения задачи анализа тональности текста, при дообучении для анализа тональности именованных cущностей</a></td>
       <td><ul>
   <li>Аугментация данных</li>
   <li>Дообучение моделей</li>
@@ -121,8 +121,19 @@
   <li>Анализ результатов</li>
 </ul>  </td>
     <td>Лекция 9</td>
-    <td><a href="https://github.com/Xeanst/project_course/blob/main/9_Comparing_Base_and_Fine-Tuned_Models/Comparing%20Base%20and%20Fine-Tuned%20Models.pdf">Презентация</a><br/>
-      <a href="https://github.com/Xeanst/project_course/blob/main/9_Comparing_Base_and_Fine-Tuned_Models/Comparing%20Base%20and%20Fine-Tuned%20Models.ipynb">Colab-блокнот</a></td>
+    <td><a href="https://github.com/Xeanst/project_course/blob/main/8_Comparing_Base_and_Fine-Tuned_Models/Comparing%20Base%20and%20Fine-Tuned%20Models.pdf">Презентация</a><br/>
+      <a href="https://github.com/Xeanst/project_course/blob/main/8_Comparing_Base_and_Fine-Tuned_Models/Comparing%20Base%20and%20Fine-Tuned%20Models.ipynb">Colab-блокнот</a></td>
+   </tr>
+   <td><a href="https://github.com/Xeanst/project_course/tree/main/9_Argument_Mining_in_Movie_Reviews">9. Анализ аргументации в отзывах на кинофильмы</a></td>
+      <td><ul>
+  <li>Анализ датасета blinoff/kinopoiskli>
+  <li>Разметка аргументов</li>
+  <li>Дообучение моделей</li>
+  <li>Анализ результатов</li>
+</ul>  </td>
+    <td>Лекция 10</td>
+    <td><a href="https://github.com/Xeanst/project_course/blob/main/9_Argument_Mining_in_Movie_Reviews/Argument%20Mining%20in%20Movie%20Reviews.pdf">Презентация</a><br/>
+      <a href="https://github.com/Xeanst/project_course/blob/main/9_Argument_Mining_in_Movie_Reviews/Argument%20Mining%20in%20Movie%20Reviews.ipynb">Colab-блокнот</a></td>
    </tr>
 </table>
 </html>
