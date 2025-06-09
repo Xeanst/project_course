@@ -74,5 +74,16 @@
     <td>Лекция 5</td>
     <td><a href="https://github.com/Xeanst/project_course/blob/main/4_LLM_training/LLM%20training%202.pdf">Презентация</a><br/>
    </tr>
+    <tr>
+  <td><a href="https://github.com/Xeanst/project_course/tree/main/5_Supervised_Fine-Tuning">5. Тонкая настройка с учителем</a></td>
+      <td><ul>
+  <li>Базовая модель vs. инструктивная модель</li>
+  <li>Шаблоны чатов</li>
+  <li>Когда и для чего использовать SFT</li>
+  <li>Методы оценки LLM</li>
+</ul>  </td>
+    <td>>Лекция 6</td>
+    <td><a href="https://github.com/Xeanst/project_course/blob/main/5_Supervised_Fine-Tuning/Supervised%20Fine-Tuning.ipynb">Colab-блокнот</a></td>
+   </tr>
 </table>
 </html>
