@@ -82,8 +82,20 @@
   <li>Когда и для чего использовать SFT</li>
   <li>Методы оценки LLM</li>
 </ul>  </td>
-    <td>>Лекция 6</td>
+    <td>Лекция 6</td>
     <td><a href="https://github.com/Xeanst/project_course/blob/main/5_Supervised_Fine-Tuning/Supervised%20Fine-Tuning.ipynb">Colab-блокнот</a></td>
+   </tr>
+   <tr>
+  <td><a href="https://github.com/Xeanst/project_course/tree/main/6_LLM_prompting">6. Методы подбора инструкций</a></td>
+      <td><ul>
+  <li>Использование LLM через облачные сервисы</li>
+  <li>Структурированный промпт</li>
+  <li>Цепочка размышлений</li>
+  <li>Самосогласованность</li>
+  <li>Установка роли</li>
+</ul>  </td>
+    <td>Лекция 7</td>
+    <td><a href="https://github.com/Xeanst/project_course/blob/main/6_LLM_prompting/LLM%20prompting.ipynb">Colab-блокнот</a></td>
    </tr>
 </table>
 </html>
