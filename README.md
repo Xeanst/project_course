@@ -112,5 +112,17 @@
   <tr>
     <td colspan="4">II. Эксперименты по улучшению качества</td>
     </tr>
+  <tr>
+  <td><a href="https://github.com/Xeanst/project_course/tree/main/9_Comparing_Base_and_Fine-Tuned_Models">8. Сравнение эффективности базовых моделей и моделей, предобученных для решения задачи анализа тональности текста, при дообучении для анализа тональности именованных cущностей</a></td>
+      <td><ul>
+  <li>Аугментация данных</li>
+  <li>Дообучение моделей</li>
+  <li>Построение ансамбля</li>
+  <li>Анализ результатов</li>
+</ul>  </td>
+    <td>Лекция 9</td>
+    <td><a href="https://github.com/Xeanst/project_course/blob/main/9_Comparing_Base_and_Fine-Tuned_Models/Comparing%20Base%20and%20Fine-Tuned%20Models.pdf">Презентация</a><br/>
+      <a href="https://github.com/Xeanst/project_course/blob/main/9_Comparing_Base_and_Fine-Tuned_Models/Comparing%20Base%20and%20Fine-Tuned%20Models.ipynb">Colab-блокнот</a></td>
+   </tr>
 </table>
 </html>
