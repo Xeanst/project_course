@@ -109,5 +109,8 @@
     <td>Лекция 8</td>
     <td><a href="https://github.com/Xeanst/project_course/blob/main/7_Parameter-Efficient_Fine-Tuning/Parameter-Efficient%20Fine-Tuning.ipynb">Colab-блокнот</a></td>
    </tr>
+  <tr>
+    <td colspan="4">II. Эксперименты по улучшению качества</td>
+    </tr>
 </table>
 </html>
