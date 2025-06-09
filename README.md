@@ -97,5 +97,17 @@
     <td>Лекция 7</td>
     <td><a href="https://github.com/Xeanst/project_course/blob/main/6_LLM_prompting/LLM%20prompting.ipynb">Colab-блокнот</a></td>
    </tr>
+  <tr>
+  <td><a href="https://github.com/Xeanst/project_course/tree/main/7_Parameter-Efficient_Fine-Tuning">7. Методы тонкой настройки с эффективным использованием параметров</a></td>
+      <td><ul>
+  <li>Promt tuning</li>
+  <li>Prefix tuning</li>
+  <li>Адаптеры</li>
+  <li>LoRA</li>
+  <li>Пример тонкой настройки с помощью LoRA</li>
+</ul>  </td>
+    <td>Лекция 8</td>
+    <td><a href="https://github.com/Xeanst/project_course/blob/main/7_Parameter-Efficient_Fine-Tuning/Parameter-Efficient%20Fine-Tuning.ipynb">Colab-блокнот</a></td>
+   </tr>
 </table>
 </html>
