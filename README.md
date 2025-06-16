@@ -71,7 +71,7 @@
     <td><a href="https://github.com/Xeanst/project_course/blob/main/4_LLM_training/LLM%20training%201.pdf">Презентация</a><br/>
    </tr>
   <tr>
-    <td>Лекция 5</td>
+    <td><a href="https://teach-in.ru/lecture/2025-04-29-Studenikina">Лекция 5</a></td>
     <td><a href="https://github.com/Xeanst/project_course/blob/main/4_LLM_training/LLM%20training%202.pdf">Презентация</a><br/>
    </tr>
     <tr>
@@ -82,7 +82,7 @@
   <li>Когда и для чего использовать SFT</li>
   <li>Методы оценки LLM</li>
 </ul>  </td>
-    <td>Лекция 6</td>
+    <td><a href="https://teach-in.ru/lecture/2025-04-30-Studenikina">Лекция 6</a></td>
     <td><a href="https://github.com/Xeanst/project_course/blob/main/5_Supervised_Fine-Tuning/Supervised%20Fine-Tuning.ipynb">Colab-блокнот</a></td>
    </tr>
    <tr>
@@ -94,7 +94,7 @@
   <li>Самосогласованность</li>
   <li>Установка роли</li>
 </ul>  </td>
-    <td>Лекция 7</td>
+    <td><a href="https://teach-in.ru/lecture/2025-05-21-Studenikina">Лекция 7</a></td>
     <td><a href="https://github.com/Xeanst/project_course/blob/main/6_LLM_prompting/LLM%20prompting.ipynb">Colab-блокнот</a></td>
    </tr>
   <tr>
